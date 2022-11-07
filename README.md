@@ -32,5 +32,5 @@
 ### Exercises
 
 * [Mid-Semester Test](Exercises/MidTest.md)
-* [Messi & Suarez Problems](Exercises/Messi&Suarez)
+* [Messi & Suarez Problems](Exercises/Messi&Suarez.md)
 
