@@ -27,3 +27,10 @@
 * [Week 11 - Game theory - Normal form games](Modules/M11.md)
 * [Week 12 - Extensive form games](Modules/M12.md)
 
+
+
+### Exercises
+
+* [Mid-Semester Test](Exercises/MidTest.md)
+* [Messi & Suarez Problems](Exercises/Messi&Suarez)
+
