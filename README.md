@@ -31,6 +31,8 @@
 
 ### Exercises
 
+* [2022 S1 - Final](Exercises/22S1.md)
 * [Mid-Semester Test](Exercises/MidTest.md)
 * [Messi & Suarez Problems](Exercises/Messi&Suarez.md)
+* [Practice Quiz Exam](Exercises/Prac.md)
 
